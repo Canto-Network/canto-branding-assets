@@ -10,8 +10,6 @@ See previews of ready PNG assets below. Find vector source files in the [`svg`](
 
 ![green on black](avatar-green-on-black.png)
 
-![green on white](avatar-green-on-white.png)
-
 ![white on black](avatar-white-on-black.png)
 
 ## Favicons (146 x 156)
@@ -30,6 +28,8 @@ See previews of ready PNG assets below. Find vector source files in the [`svg`](
 
 ![white](logo-white-on-transparent.png)
 
-## Header (3000 x 1000)
+## Assorted
 
 ![header](header.png)
+
+![200px green](200px-green-on-white.png)
