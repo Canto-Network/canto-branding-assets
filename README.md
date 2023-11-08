@@ -28,6 +28,10 @@ Canto green: ![#06fc99](https://placehold.co/15x15/06fc99/06fc99.png) `#06fc99`
 
 ![cnote](/tokens/cnote.svg)
 
+![canto-raw](/tokens/canto-raw.svg)
+
+![note-raw](/tokens/note-raw.svg)
+
 ## Other
 
 Find other PNG assets in the [`png/archive`](/png/archive/) folder.
