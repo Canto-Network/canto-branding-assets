@@ -1,35 +1,33 @@
 # Canto Branding Assets
 
-See previews of ready PNG assets below. Find vector source files in the [`svg`](svg/) folder.
+Free-to-use `svg` branding assets for the Canto network and its neofinance ecosystem. Includes avatars, logos, and token icons.
 
-## Avatars (800 x 800)
+Canto green: ![#06fc99](https://placehold.co/15x15/06fc99/06fc99.png) `#06fc99`
 
-![black on green](avatar-black-on-green.png)
+## [Avatars](/avatars/)
 
-![black on white](avatar-black-on-white.png)
+![black](/avatars/avatar-black.svg)
 
-![green on black](avatar-green-on-black.png)
+![green](/avatars/avatar-green.svg)
 
-![white on black](avatar-white-on-black.png)
+![white](/avatars/avatar-white.svg)
 
-## Favicons (146 x 156)
+## [Logos](/logos/)
 
-![green](favicon-green.png)
+![black](/logos/logo-black-on-transparent.svg)
 
-![white](favicon-white.png)
+![green](/logos/logo-green-on-transparent.svg)
 
-![black](favicon-black.png)
+![white](/logos/logo-white-on-transparent.svg)
 
-## Logo (584 x 157)
+## [Tokens](/tokens/)
 
-![black](logo-black-on-transparent.png)
+![canto](/tokens/canto.svg)
 
-![green](logo-green-on-transparent.png)
+![note](/tokens/note.svg)
 
-![white](logo-white-on-transparent.png)
+![cnote](/tokens/cnote.svg)
 
-## Assorted
+## Other
 
-![header](header.png)
-
-![200px green](200px-green-on-white.png)
+Find other PNG assets in the [`png/archive`](/png/archive/) folder.
